@@ -17,7 +17,7 @@ Este é um repositório com meu portifólio, que contempla os principais projeto
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Análise de dados de autonomia de combustível utilizando Seaborn (Google Colab):** https://bit.ly/3f6JVUl
+* **Análise de dados de autonomia de combustível utilizando Seaborn (Google Colab):**
 https://colab.research.google.com/drive/1H02lniDFk4s9dNllHRvu3DyKnc9TPB5W#scrollTo=L9OLZxj_Syet
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
