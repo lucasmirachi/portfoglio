@@ -5,7 +5,7 @@
 # Lucas Mirachi
 <sub>*Buscando cada vez mais aprendizado em Data Science | Data Engineering | Data Analysis!</sub>
 
-Este é um repositório com meu portifólio, que contempla os principais projetos que desenvolvi e os que estou trabalhando atualmente.
+Este é um repositório com meu portifólio, que contempla os principais projetos de ciência dos dados que desenvolvi, além  dos que estou trabalhando atualmente.
 
 **Background em:** Python, Machine Learning, Deep Learning e Análise de Dados (Tableau e PowerBI).
 
@@ -17,7 +17,7 @@ Este é um repositório com meu portifólio, que contempla os principais projeto
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Análise de dados de autonomia de combustível utilizando Seaborn (Google Colab):** https://bit.ly/3f6JVUl
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
