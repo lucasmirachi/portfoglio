@@ -3,7 +3,7 @@
 </p>
 
 # Lucas Mirachi
-<sub>*Buscando cada vez mais aprendizado em Data Science | Data Engineering | Data Analysis!</sub>
+<sub>*Buscando cada vez mais aprendizado em Data Science | Data Engineering | Análise de dados!</sub>
 
 Este é um repositório com meu portifólio, que contempla os principais projetos de ciência dos dados que desenvolvi, além  dos que estou trabalhando atualmente.
 
@@ -19,15 +19,10 @@ Veja os tutoriais publicados do Sigmoidal:
 
 * **Análise de dados de autonomia de combustível utilizando Seaborn (Google Colab):**
 https://colab.research.google.com/drive/1H02lniDFk4s9dNllHRvu3DyKnc9TPB5W#scrollTo=L9OLZxj_Syet
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **Image Classification e Object Tracking com um cubo mágico:** https://github.com/LucasMirachi/cubo_magico/tree/master
+* **Conectando um Fiat Palio na AWS (Work in Progress!):** 
+* **Automatizando o Instagram com Python (Medium):**
+* **Image Classification para classificar placas de trânsito com Deep Learning:** https://colab.research.google.com/drive/19H3P--HnVbKC4C_L0zypJgW1BKWbAiIp#scrollTo=VI284emq0KGe
+* **Detectando faixas de trânsito com OpenCV (Work in Progress!):** Link
 
 ---
-
-
-
-
