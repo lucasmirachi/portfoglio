@@ -15,7 +15,6 @@ Este é um repositório com meu portifólio, que contempla os principais projeto
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
 * **Análise de dados de autonomia de combustível utilizando Seaborn (Google Colab):**
 https://colab.research.google.com/drive/1H02lniDFk4s9dNllHRvu3DyKnc9TPB5W#scrollTo=L9OLZxj_Syet
