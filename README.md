@@ -16,12 +16,13 @@ Este é um repositório com meu portifólio, que contempla os principais projeto
 
 ## Projetos:
 
-* **Análise de dados de autonomia de combustível utilizando Seaborn (Google Colab):**
-https://colab.research.google.com/drive/1H02lniDFk4s9dNllHRvu3DyKnc9TPB5W#scrollTo=L9OLZxj_Syet
-* **Image Classification e Object Tracking com um cubo mágico:** https://github.com/LucasMirachi/cubo_magico/blob/master/README.md
-* **Conectando um Fiat Palio na AWS (Work in Progress!):** https://github.com/LucasMirachi/Fiat_Palio_AWS/blob/master/README.md
+* **Análise de dados de autonomia de combustível utilizando Seaborn (Google Colab):** https://bit.ly/30GTeFq
+* **Exploração e análise de dados com Streamlit (uma alternativa 100% OpenSource ao Tableau e Power BI):** https://bit.ly/2Fgbo9O
+* **Simulação de melhoria em uma "fábrica de cubos mágicos" - Projeto de Image Classification e Object Tracking:** https://github.com/LucasMirachi/cubo_magico/blob/master/README.md
+* **Conectando um Fiat Palio na Nuvem AWS (Work in Progress!):** https://github.com/LucasMirachi/Fiat_Palio_AWS/blob/master/README.md
 * **Automatizando o Instagram com Python (Medium):**
-* **Image Classification para classificar placas de trânsito com Deep Learning:** https://colab.research.google.com/drive/19H3P--HnVbKC4C_L0zypJgW1BKWbAiIp#scrollTo=VI284emq0KGe
-* **Detectando faixas de trânsito com OpenCV (Work in Progress!):** Link
+* **Image Classification para classificar placas de trânsito com Deep Learning:** https://bit.ly/30I1FAx
+* **Detectando faixas de trânsito com OpenCV:** https://github.com/LucasMirachi/Lane_Detection
+* **Modelo de Deep Learning de Behavioral Cloning para previsão de movimentação de um carro autônomo:** https://bit.ly/2GJwn55 
 
 ---
