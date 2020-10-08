@@ -18,8 +18,8 @@ Este é um repositório com meu portifólio, que contempla os principais projeto
 
 * **Análise de dados de autonomia de combustível utilizando Seaborn (Google Colab):** https://bit.ly/30GTeFq
 * **Exploração e análise de dados com Streamlit (uma alternativa 100% OpenSource ao Tableau e Power BI):** https://bit.ly/2Fgbo9O
-* **Simulação de melhoria em uma "fábrica de cubos mágicos" - Projeto de Image Classification e Object Tracking:** https://github.com/LucasMirachi/cubo_magico/blob/master/README.md
-* **Conectando um Fiat Palio na Nuvem AWS (Work in Progress!):** https://github.com/LucasMirachi/Fiat_Palio_AWS/blob/master/README.md
+* **Simulação de melhoria em uma "fábrica de cubos mágicos" - Projeto de Image Classification e Object Tracking:** https://bit.ly/3nveTdN
+* **Conectando um Fiat Palio na Nuvem AWS (Work in Progress!):** https://bit.ly/2I8pICg
 * **Automatizando o Instagram com Python (Medium):**
 * **Image Classification para classificar placas de trânsito com Deep Learning:** https://bit.ly/30I1FAx
 * **Detectando faixas de trânsito com OpenCV:** https://github.com/LucasMirachi/Lane_Detection
