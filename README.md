@@ -7,7 +7,7 @@
 
 Este é um repositório com meu portifólio, que contempla os principais projetos de ciência dos dados que desenvolvi, além  dos que estou trabalhando atualmente.
 
-**Background em:**Python, Machine Learning, Deep Learning e Análise de Dados (Tableau, StreamLit e PowerBI).
+**Background em:** Python, SQL, C++, Machine Learning, Deep Learning e Análise de Dados (Tableau, StreamLit e PowerBI).
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lucasmirachi)
